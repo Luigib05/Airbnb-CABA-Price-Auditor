@@ -54,4 +54,4 @@ Se creó una gráfico de barra para el top 15 features importance (Figure: Top 1
 
 3.12. Conclusiones finales
 
-3.13. Este proyecto se realizó con fines académicos.
+3.13. Este proyecto se realizó con fines de aprendizaje.
