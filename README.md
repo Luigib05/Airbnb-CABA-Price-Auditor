@@ -30,7 +30,7 @@ los cuales fueron filtrados para precios de 15,000 a 400,000 (ver apartado 3.5.)
 3.6. Extrayendo información de las variables de texto como 'name' y 'descriptions' y 'comments' 
 se cruzó información para crear nuevas variables categóricas, como: el depto tiene o no espacio abierto privado,
 score de cocina, score de quejas, etc. Se realizaron algunos gráficos representativos barchart 
-(Figure: Top 10 Barrios con más Quejas por Depto) y burbujas (Figure: Relación Precio vs. Quejas por Barrio en BA). 
+(images/Top 10 Barrios con más Quejas por Depto.png) y burbujas (images/Relación Precio vs. Quejas por Barrio en BA.png). 
 El análisis fue bilingue usando NLP: keyword extraction.
 
 3.7 Se generó un dataframe maestro 'df_master()' con las caracetísticas mas importante y 
@@ -48,9 +48,9 @@ MAE \approx = 16,000
 Las diferencias fueron muy grandes entre 150,000 y 300,000. Limitación del modelo o 'especulación inmobiliaria'?
 
 3.10. Se creó una función de tasación de hospedajes para determinar el precio predicho por el modelo en base a las features importance. 
-Se creó una gráfico de barra para el top 15 features importance (Figure: Top 15 Características que determinan el Precio en CABA.).
+Se creó una gráfico de barra para el top 15 features importance (images/Top 15 Características que determinan el Precio en CABA.png).
 
-3.11. Se creó un gráfico de residuos (Figure: Gráfico de Residuos - Error de Predicción vs Precio Predicho).
+3.11. Se creó un gráfico de residuos (images/Gráfico de Residuos - Error de Predicción vs Precio Predicho.png).
 
 3.12. Conclusiones finales
 
